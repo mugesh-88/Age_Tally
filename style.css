@@ -65,3 +65,9 @@ button:hover{
     font-weight: bold;
 }
 
+@media (max-width:480px) {
+    input{
+        max-width: 200px;
+    }
+}
+
